@@ -79,6 +79,20 @@ system works by capturing facial images of individuals and using machine learnin
 such as SVM to identify and track attendance.
 
 ## STEPS TO RUN THIS APPLICATION :
+1. Please install [Python version 3.8.10](https://www.python.org/downloads/release/python-3810/) to run the project successfully.
+2. It is necessary to install the [**CMake**](https://cmake.org/download/) and [**Visual Studio**](https://visualstudio.microsoft.com/downloads/).
+3. Create a folder in your PC and Fork this project in it.
+4. To run the project, Open the terminal and run the following commands:
+  * `python manage.py migrate`
+  * `python manage.py runserver`
+5. If everything is okay with your project, Django will start running the server at localhost port 8000 (127.0. 0.1:8000) and then you have to navigate to that link in your browser.
+6. **For Admin login, the credentials are Username - admin & Password - admin**
+7. Also, To view the Database please download [**DB Browser for SQLite**](https://sqlitebrowser.org/dl/).
+8. You can then manually change the password for the employee and admin using the DB Browser.
+9. While successfully running the project, Login using Admin credentials then for Adding new employees you need to first register them as *New Employee* and then *Add Photos* of the Employee. It will take 20 seconds to capture the photos and then you can *Train the model*.
+10. You need to then Go to the landing/home page and *Mark their attendance*, to check whether the model can detect the New Employee with the name and accuracy. Similary, you can add new employees and train the model.
+11. **Note:** It is necessary to Train the model everytime after new employee have been added. 
+12. Congratulations!!✨ You have successfully run the project.
 
 ## CONTRIBUTING :
 

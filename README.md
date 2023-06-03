@@ -14,7 +14,7 @@ the risk of fraudulent activities such as proxy attendance. This project aims to
 replacement for outdated manual attendance systems. When security is a priority, it can be
 employed in corporate offices, educational institutions, and other organizations.  
 
-# PROBLEM STATEMENT :
+## PROBLEM STATEMENT :
 
 The traditional methods of taking attendance in educational institutions and corporate offices, such
 as paper-based sign-in sheets or manual roll-calls, are time-consuming, inefficient, and prone to

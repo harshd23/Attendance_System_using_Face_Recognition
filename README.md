@@ -109,6 +109,8 @@ This is an open source project, and contributions of any kind are welcome and ap
 - [Osama Shaikh](https://github.com/Osamashaikh90)
 - [Bhanu Sunka](https://github.com/Bhanu1776)
 
+<hr>
+
 © 2023 Harsh Dalvi and contributors  
 This project is licensed under the [**MIT license**](https://github.com/harshd23/Attendance_System_using_Face_Recognition/blob/main/LICENSE).
 
